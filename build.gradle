@@ -28,6 +28,7 @@ dependencies {
     testImplementation(
             "com.codeborne:pdf-test:1.6.1",
             "com.codeborne:xls-test:1.4.3",
+            "org.apache.poi:poi:3.9",
             "com.opencsv:opencsv:5.3",
             "org.assertj:assertj-core:3.19.0",
             "net.lingala.zip4j:zip4j:2.9.0")
